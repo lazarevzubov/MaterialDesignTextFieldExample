@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "materialdesigntextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lazarevzubov/MaterialDesignTextField.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4c2e16ab264be0015dee0a50390f64cd9823d3d4"
+      }
+    }
+  ],
+  "version" : 2
+}
