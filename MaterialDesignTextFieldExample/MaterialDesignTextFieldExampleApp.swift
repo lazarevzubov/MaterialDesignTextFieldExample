@@ -9,15 +9,15 @@ import SwiftUI
 
 @main
 struct MaterialDesignTextFieldExampleApp: App {
-	
-	// MARK: - Properties
-	
-	// MARK: App protocol properties
-	
+
+    // MARK: - Properties
+
+    // MARK: App protocol properties
+
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
     }
-	
+
 }
