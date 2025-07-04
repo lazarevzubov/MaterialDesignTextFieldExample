@@ -76,16 +76,10 @@ struct ContentView: View {
 
 }
 
-// MARK: -
+#if DEBUG
 
-struct ContentView_Previews: PreviewProvider {
-
-    // MARK: - Properties
-
-    // MARK: PreviewProvider protocol properties
-
-    static var previews: some View {
-        ContentView()
-    }
-
+#Preview {
+    ContentView()
 }
+
+#endif
